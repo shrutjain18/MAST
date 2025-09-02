@@ -1,9 +1,10 @@
 # MAST
 Computer Science Senior Bal Vigyan Project
-**M**aking 
-**A**
-**S**uccessful
-**T**omorrow
+
+**M** aking <br/>
+**A** <br/>
+**S** uccessful <br/>
+**T** omorrow <br/>
 
 Mentors:
 - Mashurima Puranik
