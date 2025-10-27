@@ -7,7 +7,7 @@ Computer Science Senior Bal Vigyan Project
 **T** omorrow <br/>
 
 Mentors:
-- Mashurima Puranik
+- Madhurima Puranik
 - Pardeep Kaur
 
 Team Members:
